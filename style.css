@@ -1,9 +1,13 @@
 body {
-  max-width: 40em;
+  max-width: 34em;
   margin: 0 auto;
   padding: 5px;
   font-family: Georgia, serif;
   font-size: 20px;
+  /* font-size: clamp(1.375rem, 2.225vw, 2rem); */
+  /* letter-spacing: -0.0015em; 
+  line-height: 1.3em; */
+
   line-height: 1.6em;
   color: #555; /* black; */
   padding: 0 20px;
